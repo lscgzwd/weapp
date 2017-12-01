@@ -1,0 +1,27 @@
+{
+    "name": "lscgzwd/weapp",
+    "description": "微信小程序第三方平台SDK,公众号第三方平台SDK，代实现公众号业务，代实现小程序业务",
+    "keywords": [
+        "wechat",
+        "微信",
+        "小程序",
+        "公众号"
+    ],
+    "homepage": "https://github.com/lscgzwd/weapp",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "lscgzwd",
+            "email": "lscgzwd@gmail.com",
+            "homepage": "http://github.com/lscgzwd"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "weapp\\": "src/"
+        }
+    },
+    "require": {
+        "php":">=7.0"
+    }
+}
