@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: lusc
- * Date: 2017/12/1
- * Time: 14:58
- */
-
 namespace weapp;
 
 include_once "3rd/WxpayAPI_php_v3/lib/WxPay.Api.php";
